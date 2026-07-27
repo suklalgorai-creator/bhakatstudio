@@ -163,7 +163,7 @@ export function renderAboutSection(data, container, basePath = "") {
 
     const html = `
         <div class="about-left">
-            <img src="${basePath}${data.about.image || 'assets/images/gallery/bridal-4.jpg'}" alt="Bridal makeup look" width="720" height="820" loading="lazy">
+            <img src="${basePath}${data.about.image || 'assets/images/gallery/bridal-4.webp'}" alt="Bridal makeup look" width="720" height="820" loading="lazy">
         </div>
         <div class="about-right">
             <span>ABOUT US</span>
@@ -325,7 +325,7 @@ export function renderAboutPage(data, container, basePath = "") {
             </div>
         </div>
         <div class="about-image">
-            <img src="${basePath}assets/images/gallery/bridal 3.jpg" alt="Bhakat Studio Photographer at Work" loading="lazy">
+            <img src="${basePath}assets/images/gallery/bridal 3.webp" alt="Bhakat Studio Photographer at Work" loading="lazy">
         </div>
     </div>
 

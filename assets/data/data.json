@@ -114,19 +114,19 @@
       "tag": "Discover Our Expertise",
       "title": "Our Luxury Services",
       "subtitle": "Explore our comprehensive range of premium photography services designed to make you look and feel your absolute best.",
-      "image": "assets/images/wedding-photo-4.jpg"
+      "image": "assets/images/wedding-photo-4.webp"
     },
     "about": {
       "tag": "Our Story",
       "title": "About Bhakat Studio",
       "subtitle": "Dedicated to capturing your purest moments.",
-      "image": "assets/images/wedding-photo-2.jpg"
+      "image": "assets/images/wedding-photo-2.webp"
     },
     "gallery": {
       "tag": "Our Portfolio",
       "title": "Complete Gallery",
       "subtitle": "A collection of our finest memories and memorable moments.",
-      "image": "assets/images/wedding-photo-3.jpg"
+      "image": "assets/images/wedding-photo-3.webp"
     }
   },
   "services": [
@@ -142,7 +142,7 @@
         "Portrait Shoots"
       ],
       "price": "Starting From ₹XXXX",
-      "image": "assets/images/wedding-photo-4.jpg"
+      "image": "assets/images/wedding-photo-4.webp"
     },
     {
       "id": "hair-styling",
@@ -156,7 +156,7 @@
         "Drone Shoots"
       ],
       "price": "Starting From ₹XXXX",
-      "image": "assets/images/wedding-photo-5.jpg"
+      "image": "assets/images/wedding-photo-5.webp"
     },
     {
       "id": "mehendi",
@@ -170,7 +170,7 @@
         "Save The Date Videos"
       ],
       "price": "Starting From ₹XXXX",
-      "image": "assets/images/wedding-photo-39.jpg"
+      "image": "assets/images/wedding-photo-39.webp"
     },
     {
       "id": "drone-shoot",
@@ -184,7 +184,7 @@
         "Grand Entry Coverage"
       ],
       "price": "Starting From ₹XXXX",
-      "image": "assets/images/wedding-photo-7.jpg"
+      "image": "assets/images/wedding-photo-7.webp"
     },
     {
       "id": "candid",
@@ -198,7 +198,7 @@
         "Documentary Style"
       ],
       "price": "Starting From ₹XXXX",
-      "image": "assets/images/wedding-photo-8.jpg"
+      "image": "assets/images/wedding-photo-8.webp"
     },
     {
       "id": "albums",
@@ -212,7 +212,7 @@
         "Leather Covers"
       ],
       "price": "Starting From ₹XXXX",
-      "image": "assets/images/wedding-photo-9.jpg"
+      "image": "assets/images/wedding-photo-9.webp"
     }
   ],
   "packages": [
@@ -333,248 +333,248 @@
   ],
   "gallery": [
     {
-      "image": "assets/images/wedding-photo-4.jpg",
+      "image": "assets/images/wedding-photo-4.webp",
       "alt": "Wedding Shoot",
       "category": "wedding",
       "size": "large"
     },
     {
-      "image": "assets/images/wedding-photo-2.jpg",
+      "image": "assets/images/wedding-photo-2.webp",
       "alt": "Wedding Shoot",
       "category": "pre-wedding",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-3.jpg",
+      "image": "assets/images/wedding-photo-3.webp",
       "alt": "Wedding Shoot",
       "category": "candid",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-4.jpg",
+      "image": "assets/images/wedding-photo-4.webp",
       "alt": "Wedding Shoot",
       "category": "wedding",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-5.jpg",
+      "image": "assets/images/wedding-photo-5.webp",
       "alt": "Wedding Shoot",
       "category": "pre-wedding",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-39.jpg",
+      "image": "assets/images/wedding-photo-39.webp",
       "alt": "Wedding Shoot",
       "category": "candid",
       "size": "large"
     },
     {
-      "image": "assets/images/wedding-photo-7.jpg",
+      "image": "assets/images/wedding-photo-7.webp",
       "alt": "Wedding Shoot",
       "category": "wedding",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-8.jpg",
+      "image": "assets/images/wedding-photo-8.webp",
       "alt": "Wedding Shoot",
       "category": "pre-wedding",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-9.jpg",
+      "image": "assets/images/wedding-photo-9.webp",
       "alt": "Wedding Shoot",
       "category": "candid",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-10.jpg",
+      "image": "assets/images/wedding-photo-10.webp",
       "alt": "Wedding Shoot",
       "category": "wedding",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-11.jpg",
-      "alt": "Wedding Shoot",
-      "category": "pre-wedding",
-      "size": "large"
-    },
-    {
-      "image": "assets/images/wedding-photo-12.jpg",
-      "alt": "Wedding Shoot",
-      "category": "candid",
-      "size": "normal"
-    },
-    {
-      "image": "assets/images/wedding-photo-13.jpg",
-      "alt": "Wedding Shoot",
-      "category": "wedding",
-      "size": "normal"
-    },
-    {
-      "image": "assets/images/wedding-photo-14.jpg",
-      "alt": "Wedding Shoot",
-      "category": "pre-wedding",
-      "size": "normal"
-    },
-    {
-      "image": "assets/images/wedding-photo-15.jpg",
-      "alt": "Wedding Shoot",
-      "category": "candid",
-      "size": "normal"
-    },
-    {
-      "image": "assets/images/wedding-photo-16.jpg",
-      "alt": "Wedding Shoot",
-      "category": "wedding",
-      "size": "large"
-    },
-    {
-      "image": "assets/images/wedding-photo-17.jpg",
-      "alt": "Wedding Shoot",
-      "category": "pre-wedding",
-      "size": "normal"
-    },
-    {
-      "image": "assets/images/wedding-photo-18.jpg",
-      "alt": "Wedding Shoot",
-      "category": "candid",
-      "size": "normal"
-    },
-    {
-      "image": "assets/images/wedding-photo-19.jpg",
-      "alt": "Wedding Shoot",
-      "category": "wedding",
-      "size": "normal"
-    },
-    {
-      "image": "assets/images/wedding-photo-20.jpg",
-      "alt": "Wedding Shoot",
-      "category": "pre-wedding",
-      "size": "normal"
-    },
-    {
-      "image": "assets/images/wedding-photo-21.jpg",
-      "alt": "Wedding Shoot",
-      "category": "candid",
-      "size": "large"
-    },
-    {
-      "image": "assets/images/wedding-photo-22.jpg",
-      "alt": "Wedding Shoot",
-      "category": "wedding",
-      "size": "normal"
-    },
-    {
-      "image": "assets/images/wedding-photo-23.jpg",
-      "alt": "Wedding Shoot",
-      "category": "pre-wedding",
-      "size": "normal"
-    },
-    {
-      "image": "assets/images/wedding-photo-24.jpg",
-      "alt": "Wedding Shoot",
-      "category": "candid",
-      "size": "normal"
-    },
-    {
-      "image": "assets/images/wedding-photo-25.jpg",
-      "alt": "Wedding Shoot",
-      "category": "wedding",
-      "size": "normal"
-    },
-    {
-      "image": "assets/images/wedding-photo-26.jpg",
+      "image": "assets/images/wedding-photo-11.webp",
       "alt": "Wedding Shoot",
       "category": "pre-wedding",
       "size": "large"
     },
     {
-      "image": "assets/images/wedding-photo-27.jpg",
+      "image": "assets/images/wedding-photo-12.webp",
       "alt": "Wedding Shoot",
       "category": "candid",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-28.jpg",
+      "image": "assets/images/wedding-photo-13.webp",
       "alt": "Wedding Shoot",
       "category": "wedding",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-29.jpg",
+      "image": "assets/images/wedding-photo-14.webp",
       "alt": "Wedding Shoot",
       "category": "pre-wedding",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-30.jpg",
+      "image": "assets/images/wedding-photo-15.webp",
       "alt": "Wedding Shoot",
       "category": "candid",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-31.jpg",
+      "image": "assets/images/wedding-photo-16.webp",
       "alt": "Wedding Shoot",
       "category": "wedding",
       "size": "large"
     },
     {
-      "image": "assets/images/wedding-photo-32.jpg",
+      "image": "assets/images/wedding-photo-17.webp",
       "alt": "Wedding Shoot",
       "category": "pre-wedding",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-33.jpg",
+      "image": "assets/images/wedding-photo-18.webp",
       "alt": "Wedding Shoot",
       "category": "candid",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-34.jpg",
+      "image": "assets/images/wedding-photo-19.webp",
       "alt": "Wedding Shoot",
       "category": "wedding",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-35.jpg",
+      "image": "assets/images/wedding-photo-20.webp",
       "alt": "Wedding Shoot",
       "category": "pre-wedding",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-36.jpg",
+      "image": "assets/images/wedding-photo-21.webp",
       "alt": "Wedding Shoot",
       "category": "candid",
       "size": "large"
     },
     {
-      "image": "assets/images/wedding-photo-37.jpg",
+      "image": "assets/images/wedding-photo-22.webp",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-23.webp",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-24.webp",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-25.webp",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-26.webp",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "large"
+    },
+    {
+      "image": "assets/images/wedding-photo-27.webp",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-28.webp",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-29.webp",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-30.webp",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-31.webp",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "large"
+    },
+    {
+      "image": "assets/images/wedding-photo-32.webp",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-33.webp",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-34.webp",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-35.webp",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-36.webp",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "large"
+    },
+    {
+      "image": "assets/images/wedding-photo-37.webp",
       "alt": "Wedding Shoot",
       "category": "wedding",
       "size": "normal"
     },
 
     {
-      "image": "assets/images/wedding-photo-39.jpg",
+      "image": "assets/images/wedding-photo-39.webp",
       "alt": "Wedding Shoot",
       "category": "wedding",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-40.jpg",
+      "image": "assets/images/wedding-photo-40.webp",
       "alt": "Wedding Shoot",
       "category": "wedding",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-41.jpg",
+      "image": "assets/images/wedding-photo-41.webp",
       "alt": "Wedding Shoot",
       "category": "wedding",
       "size": "normal"
     },
     {
-      "image": "assets/images/wedding-photo-42.jpg",
+      "image": "assets/images/wedding-photo-42.webp",
       "alt": "Wedding Shoot",
       "category": "wedding",
       "size": "normal"
@@ -588,7 +588,7 @@
     }
   ],
   "about": {
-    "image": "assets/images/wedding-photo-35.jpg",
+    "image": "assets/images/wedding-photo-35.webp",
     "story": {
       "title": "Capturing Beautiful<br>Moments Since 2015",
       "text": "Welcome to Bhakat Studio, your premier destination for luxury wedding photography and cinematography in Ghatsila & Jamshedpur. We specialize in capturing candid emotions, epic drone shots, and crafting cinematic wedding films."
@@ -633,7 +633,7 @@
     }
   },
   "appointment": {
-    "image": "assets/images/wedding-photo-17.jpg",
+    "image": "assets/images/wedding-photo-17.webp",
     "services": [
       "Wedding Photography",
       "Pre-Wedding",

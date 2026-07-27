@@ -40,11 +40,11 @@
     transform: scale(1);
 }
 
-.hero-slide.slide-1 { background-image: url("../images/wedding-photo-2.jpg"); }
-.hero-slide.slide-2 { background-image: url("../images/wedding-photo-18.jpg"); }
-.hero-slide.slide-3 { background-image: url("../images/wedding-photo-25.jpg"); }
-.hero-slide.slide-4 { background-image: url("../images/wedding-photo-35.jpg"); }
-.hero-slide.slide-5 { background-image: url("../images/wedding-photo-7.jpg"); }
+.hero-slide.slide-1 { background-image: url("../images/wedding-photo-2.webp"); }
+.hero-slide.slide-2 { background-image: url("../images/wedding-photo-18.webp"); }
+.hero-slide.slide-3 { background-image: url("../images/wedding-photo-25.webp"); }
+.hero-slide.slide-4 { background-image: url("../images/wedding-photo-35.webp"); }
+.hero-slide.slide-5 { background-image: url("../images/wedding-photo-7.webp"); }
 
 /* ---------- Single charcoal overlay ---------- */
 .hero::before {

@@ -372,7 +372,7 @@ HERO
 
     background:
         linear-gradient(90deg,rgba(34,34,34,.42),rgba(34,34,34,.18)),
-        url("../images/hero/hero.png");
+        url("../images/hero/hero.webp");
 
     background-size:cover;
 
