@@ -11,6 +11,7 @@ import { initReveal, initCounters } from './animations.js';
 import { initTestimonials } from './testimonials.js';
 import { initLightbox } from './lightbox.js';
 import { initForm } from './form.js';
+import { initHeroSlider } from './slider.js';
 import * as renderers from './renderers.js';
 
 /* ── Lucide icons ── */
@@ -77,6 +78,11 @@ async function loadAndRender() {
         // 4. Initialize all JS modules AFTER DOM is built
         initNavbar();
         initTheme();
+        // 3. Initialize Interactive Modules
+        if (!isSubPage) {
+            initHeroSlider();
+        }
+        
         initIcons();
         initReveal();
         initCounters();

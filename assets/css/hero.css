@@ -40,11 +40,11 @@
     transform: scale(1);
 }
 
-.hero-slide.slide-1 { background-image: url("../images/hero/hero.png"); }
-.hero-slide.slide-2 { background-image: url("../images/gallery/bridal.jpg"); }
-.hero-slide.slide-3 { background-image: url("../images/gallery/mehendi_art_1.jpg"); }
-.hero-slide.slide-4 { background-image: url("../images/gallery/hair_styling_1.jpg"); }
-.hero-slide.slide-5 { background-image: url("../images/gallery/mehendi_hand_full.jpg"); }
+.hero-slide.slide-1 { background-image: url("../images/wedding-photo-2.jpg"); }
+.hero-slide.slide-2 { background-image: url("../images/wedding-photo-18.jpg"); }
+.hero-slide.slide-3 { background-image: url("../images/wedding-photo-25.jpg"); }
+.hero-slide.slide-4 { background-image: url("../images/wedding-photo-35.jpg"); }
+.hero-slide.slide-5 { background-image: url("../images/wedding-photo-7.jpg"); }
 
 /* ---------- Single charcoal overlay ---------- */
 .hero::before {

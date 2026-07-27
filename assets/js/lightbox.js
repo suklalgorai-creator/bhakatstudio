@@ -19,7 +19,7 @@ export const initLightbox = () => {
         currentIndex = (index + galleryImages.length) % galleryImages.length;
         const image = galleryImages[currentIndex];
         lightboxImg.src = image.currentSrc || image.src;
-        lightboxImg.alt = image.alt || 'Ishika salon gallery image';
+        lightboxImg.alt = image.alt || 'Bhakat Studio gallery image';
     };
 
     const openLightbox = (index) => {

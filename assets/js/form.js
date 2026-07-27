@@ -24,7 +24,7 @@ export const initForm = () => {
         const message = data.get('message') || '';
 
         const lines = [
-            '✨ *ISHIKA PROFESSIONAL SALON & SPA* ✨',
+            '✨ *BHAKAT STUDIO - JAGADISH CREATION* ✨',
             '━━━━━━━━━━━━━━━━━━━',
             '',
             '📋 *NEW BOOKING REQUEST*',

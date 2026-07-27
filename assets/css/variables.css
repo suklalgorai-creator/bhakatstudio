@@ -2,13 +2,14 @@
    VARIABLES — Design Tokens
    ============================== */
 :root {
-    --primary: #b76e79;
-    --primary-dark: #995762;
+    --primary: #c9a66b;
+    --primary-dark: #b59258;
     --gold: #d6b36a;
     --white: #ffffff;
-    --black: #222222;
-    --gray: #777777;
-    --light: #fcfaf8;
+    --black: #1a1a1a;
+    --gray: #888888;
+    --light: #f9f8f6;
+    --accent: #d8a0a6;
     --shadow: 0 20px 60px rgba(0,0,0,.08);
     --radius: 20px;
     --transition: .4s ease;

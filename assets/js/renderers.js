@@ -140,7 +140,7 @@ export function renderGallery(data, container, basePath = "") {
         if (item.type === 'video') {
             return `
                 <div class="gallery-item ${item.size === 'large' ? 'large' : ''}" data-category="${item.category}">
-                    <a href="${basePath}${item.image}" class="glightbox" data-gallery="home-gallery" style="display: block; width: 100%; height: 100%;">
+                    <a href="${basePath}${item.image}" class="glightbox" data-gallery="home-gallery" data-title="${item.category}" data-description="${item.alt}" style="display: block; width: 100%; height: 100%;">
                         <video src="${basePath}${item.image}" aria-label="${item.alt}" muted loop playsinline preload="metadata"></video>
                     </a>
                 </div>
@@ -148,7 +148,7 @@ export function renderGallery(data, container, basePath = "") {
         }
         return `
             <div class="gallery-item ${item.size === 'large' ? 'large' : ''}" data-category="${item.category}">
-                <a href="${basePath}${item.image}" class="glightbox" data-gallery="home-gallery" style="display: block; width: 100%; height: 100%;">
+                <a href="${basePath}${item.image}" class="glightbox" data-gallery="home-gallery" data-title="${item.category}" data-description="${item.alt}" style="display: block; width: 100%; height: 100%;">
                     <img src="${basePath}${item.image}" alt="${item.alt}" width="640" height="760" loading="lazy">
                 </a>
             </div>
@@ -325,7 +325,7 @@ export function renderAboutPage(data, container, basePath = "") {
             </div>
         </div>
         <div class="about-image">
-            <img src="${basePath}assets/images/gallery/bridal 3.jpg" alt="Ishika Salon Artist at Work" loading="lazy">
+            <img src="${basePath}assets/images/gallery/bridal 3.jpg" alt="Bhakat Studio Photographer at Work" loading="lazy">
         </div>
     </div>
 
@@ -383,7 +383,7 @@ export function renderGalleryPage(data, container, basePath = "") {
                 if (item.type === 'video') {
                     return `
                         <div class="masonry-item ${item.category}">
-                            <a href="${basePath}${item.image}" class="glightbox" data-gallery="full-gallery" style="display: block;">
+                            <a href="${basePath}${item.image}" class="glightbox" data-gallery="full-gallery" data-title="${item.category}" data-description="${item.alt}" style="display: block;">
                                 <video src="${basePath}${item.image}" aria-label="${item.alt}" muted loop playsinline preload="metadata"></video>
                             </a>
                         </div>
@@ -391,7 +391,7 @@ export function renderGalleryPage(data, container, basePath = "") {
                 }
                 return `
                     <div class="masonry-item ${item.category}">
-                        <a href="${basePath}${item.image}" class="glightbox" data-gallery="full-gallery" style="display: block;">
+                        <a href="${basePath}${item.image}" class="glightbox" data-gallery="full-gallery" data-title="${item.category}" data-description="${item.alt}" style="display: block;">
                             <img src="${basePath}${item.image}" alt="${item.alt}" loading="lazy">
                         </a>
                     </div>

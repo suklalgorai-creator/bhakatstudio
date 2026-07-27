@@ -1,13 +1,13 @@
 {
   "salon": {
-    "name": "ISHIKA Professional Salon & Spa",
-    "logoMain": "ISHIKA",
-    "logoSub": "Professional Salon & Spa",
-    "tagline": "Luxury Bridal Makeup Studio",
-    "description": "Luxury bridal makeup, mehendi, hair styling, spa and beauty services in Ghatsila by Ishika Professional Salon & Spa.",
+    "name": "Bhakat Studio",
+    "logoMain": "Bhakat Studio",
+    "logoSub": "Jagadish Creation",
+    "tagline": "Premium Wedding Photography",
+    "description": "Premium wedding photography, cinematography, pre-wedding, kids, and fashion shoots in Jamshedpur & Ghatsila by Bhakat Studio.",
     "foundedYear": 2010,
-    "copyright": "Copyright 2026 Ishika Professional Salon & Spa. All rights reserved.",
-    "designerCredit": "Designed by Ishika Professional Salon & Spa",
+    "copyright": "Copyright 2026 Bhakat Studio. All rights reserved.",
+    "designerCredit": "Designed by Bhakat Studio",
     "contact": {
       "phone": "+91 74630 30584",
       "whatsapp": "917463030584",
@@ -16,292 +16,635 @@
       "hours": "Open daily, 9:00 AM - 8:00 PM"
     },
     "links": {
-      "googleMapsEmbed": "https://www.google.com/maps?q=Ishika+Professional+Salon+And+Spa,+Ghatsila,+Jharkhand&output=embed",
+      "googleMapsEmbed": "https://www.google.com/maps?q=Bhakat+Studio,+Ghatsila,+Jharkhand&output=embed",
       "googleMapsDirect": "https://maps.app.goo.gl/YEMPaHX6qhjrgi436",
-      "instagram": "https://www.instagram.com/ishika_professional_salon_spa",
+      "instagram": "https://www.instagram.com/bhakat_studio_official",
       "facebook": "https://www.facebook.com/",
       "youtube": "https://www.youtube.com/@josphinclairing8087"
     }
   },
   "navigation": {
     "main": [
-      { "label": "Home", "href": "index.html#home", "isHome": true },
-      { "label": "Services", "href": "pages/services.html" },
-      { "label": "Gallery", "href": "pages/gallery.html" },
-      { "label": "Packages", "href": "index.html#packages" },
-      { "label": "About", "href": "pages/about.html" },
-      { "label": "Reviews", "href": "index.html#testimonials" },
-      { "label": "Contact", "href": "index.html#contact" }
+      {
+        "label": "Home",
+        "href": "index.html#home",
+        "isHome": true
+      },
+      {
+        "label": "Services",
+        "href": "pages/services.html"
+      },
+      {
+        "label": "Gallery",
+        "href": "pages/gallery.html"
+      },
+      {
+        "label": "Packages",
+        "href": "index.html#packages"
+      },
+      {
+        "label": "About",
+        "href": "pages/about.html"
+      },
+      {
+        "label": "Reviews",
+        "href": "index.html#testimonials"
+      },
+      {
+        "label": "Contact",
+        "href": "index.html#contact"
+      }
     ],
     "footerQuickLinks": [
-      { "label": "Home", "href": "index.html#home" },
-      { "label": "Services", "href": "pages/services.html" },
-      { "label": "Gallery", "href": "pages/gallery.html" },
-      { "label": "Packages", "href": "index.html#packages" },
-      { "label": "About Us", "href": "pages/about.html" }
+      {
+        "label": "Home",
+        "href": "index.html#home"
+      },
+      {
+        "label": "Services",
+        "href": "pages/services.html"
+      },
+      {
+        "label": "Gallery",
+        "href": "pages/gallery.html"
+      },
+      {
+        "label": "Packages",
+        "href": "index.html#packages"
+      },
+      {
+        "label": "About Us",
+        "href": "pages/about.html"
+      }
     ],
     "footerServices": [
-      { "label": "Bridal Makeup", "href": "pages/services.html#bridal-makeup" },
-      { "label": "Hair Styling", "href": "pages/services.html#hair-styling" },
-      { "label": "Mehendi", "href": "pages/services.html#mehendi" },
-      { "label": "Facial & Spa", "href": "pages/services.html#spa-therapy" }
+      {
+        "label": "Wedding Photography",
+        "href": "pages/services.html#bridal-makeup"
+      },
+      {
+        "label": "Hair Styling",
+        "href": "pages/services.html#hair-styling"
+      },
+      {
+        "label": "Mehendi",
+        "href": "pages/services.html#mehendi"
+      },
+      {
+        "label": "Facial & Spa",
+        "href": "pages/services.html#spa-therapy"
+      }
     ]
   },
   "hero": {
     "home": {
-      "tag": "Luxury Bridal Makeup Studio",
-      "title": "Beauty That<br>Lasts Forever",
-      "subtitle": "Bridal Makeup | Mehendi | Hair Styling | Spa | Beauty Services",
-      "primaryBtn": { "label": "Book Appointment", "href": "#contact" },
-      "secondaryBtn": { "label": "View Gallery", "href": "#gallery" }
+      "tag": "Capturing Emotions, Not Just Photos",
+      "title": "Timeless<br>Moments",
+      "subtitle": "Wedding Photography | Cinematography | Pre-Wedding",
+      "primaryBtn": {
+        "label": "Reserve Your Date",
+        "href": "#contact"
+      },
+      "secondaryBtn": {
+        "label": "View Gallery",
+        "href": "#gallery"
+      }
     },
     "services": {
       "tag": "Discover Our Expertise",
       "title": "Our Luxury Services",
-      "subtitle": "Explore our comprehensive range of premium beauty treatments designed to make you look and feel your absolute best.",
-      "image": "assets/images/gallery/bridal-4.jpg"
+      "subtitle": "Explore our comprehensive range of premium photography services designed to make you look and feel your absolute best.",
+      "image": "assets/images/wedding-photo-4.jpg"
     },
     "about": {
       "tag": "Our Story",
-      "title": "About Ishika",
-      "subtitle": "Dedicated to enhancing your natural beauty since 2010.",
-      "image": "assets/images/appointment/appointment_salon_mirror_1785028616896.jpg"
+      "title": "About Bhakat Studio",
+      "subtitle": "Dedicated to capturing your purest moments.",
+      "image": "assets/images/wedding-photo-2.jpg"
     },
     "gallery": {
       "tag": "Our Portfolio",
       "title": "Complete Gallery",
-      "subtitle": "A collection of our finest transformations and memorable moments.",
-      "image": "assets/images/gallery/bridal-5.jpg"
+      "subtitle": "A collection of our finest memories and memorable moments.",
+      "image": "assets/images/wedding-photo-3.jpg"
     }
   },
   "services": [
     {
       "id": "bridal-makeup",
-      "badge": "BRIDAL",
-      "title": "Bridal Makeup",
-      "shortSummary": "HD, Airbrush & Traditional bridal makeup with premium products.",
-      "fullDescription": "Your wedding day is one of the most important days of your life. Our expert bridal makeup artists specialize in creating timeless, flawless looks using premium international products like MAC, Huda Beauty, and Kryolan.",
-      "features": ["HD Makeup", "Airbrush Makeup", "Traditional Bridal Makeup"],
+      "badge": "WEDDING",
+      "title": "Wedding Photography",
+      "shortSummary": "Candid & Traditional wedding photography.",
+      "fullDescription": "Your wedding day is one of the most important days of your life. Our expert photographers specialize in capturing raw emotions and authentic moments.",
+      "features": [
+        "Candid Photography",
+        "Traditional Photography",
+        "Portrait Shoots"
+      ],
       "price": "Starting From ₹XXXX",
-      "image": "assets/images/services/bridal_makeup_1784990666991.png"
+      "image": "assets/images/wedding-photo-4.jpg"
     },
     {
       "id": "hair-styling",
-      "badge": "HAIR",
-      "title": "Hair Styling",
-      "shortSummary": "Bridal buns, curls, party hairstyles and elegant styling.",
-      "fullDescription": "From elegant bridal buns to modern Hollywood waves, our hairstylists craft the perfect look to complement your features and outfit. We also offer advanced hair treatments.",
-      "features": ["Bridal Hair Styling", "Hair Spa & Smoothing", "Creative Hair Cuts & Coloring"],
+      "badge": "CINEMA",
+      "title": "Cinematic Videography",
+      "shortSummary": "High-end 4K wedding films crafted like a movie.",
+      "fullDescription": "We don't just record videos; we tell stories. Our cinematic wedding films capture the laughter, tears, and joy of your special day in stunning 4K quality.",
+      "features": [
+        "4K Wedding Films",
+        "Teasers & Highlights",
+        "Drone Shoots"
+      ],
       "price": "Starting From ₹XXXX",
-      "image": "assets/images/services/hair_styling_1784990692929.png"
+      "image": "assets/images/wedding-photo-5.jpg"
     },
     {
       "id": "mehendi",
-      "badge": "MEHENDI",
-      "title": "Mehendi",
-      "shortSummary": "Beautiful bridal and festive mehendi designs.",
-      "fullDescription": "Embrace tradition with our intricate and beautiful mehendi designs. We use 100% natural, organic henna that guarantees a rich, dark stain for your big day.",
-      "features": ["Traditional Indian Designs", "Arabic Mehendi", "Custom Portrait Mehendi"],
+      "badge": "PRE-WEDDING",
+      "title": "Pre-Wedding Shoots",
+      "shortSummary": "Romantic and conceptual pre-wedding photography.",
+      "fullDescription": "Celebrate your love story before the big day. We offer beautifully directed pre-wedding shoots at exotic locations with cinematic styling.",
+      "features": [
+        "Concept Shoots",
+        "Location Scouting",
+        "Save The Date Videos"
+      ],
       "price": "Starting From ₹XXXX",
-      "image": "assets/images/services/mehendi_1784990718580.png"
+      "image": "assets/images/wedding-photo-39.jpg"
     },
     {
-      "id": "spa-therapy",
-      "badge": "SPA",
-      "title": "Spa Therapy",
-      "shortSummary": "Relax your body and refresh your mind with luxury spa treatments.",
-      "fullDescription": "Escape the stress of daily life. Our luxurious spa treatments are designed to rejuvenate your mind, body, and soul using premium essential oils and ancient massage techniques.",
-      "features": ["Full Body Massage", "Aromatherapy", "Body Polishing & Scrub"],
+      "id": "drone-shoot",
+      "badge": "AERIAL",
+      "title": "Drone Shoots",
+      "shortSummary": "Breathtaking aerial views of your grand venues.",
+      "fullDescription": "Get a bird's-eye view of your wedding venue and grand entries with our 4K drone cinematography.",
+      "features": [
+        "4K Aerial Video",
+        "Venue Panoramas",
+        "Grand Entry Coverage"
+      ],
       "price": "Starting From ₹XXXX",
-      "image": "assets/images/services/spa_therapy_1784990737316.png"
+      "image": "assets/images/wedding-photo-7.jpg"
     },
     {
-      "id": "facial",
-      "badge": "GLOW",
-      "title": "Facial",
-      "shortSummary": "Premium skin care treatments for glowing skin.",
-      "fullDescription": "Experience a radiant glow with our customized facial treatments. We analyze your skin type and use dermatologically tested products to address acne, pigmentation, and anti-aging.",
-      "features": ["Deep Cleansing Facial", "O3+ Bridal Glow Facial", "Anti-Aging & Skin Tightening"],
+      "id": "candid",
+      "badge": "CANDID",
+      "title": "Candid Photography",
+      "shortSummary": "Unscripted, natural moments that tell your true story.",
+      "fullDescription": "We specialize in capturing the raw, unscripted emotions of your special day, creating a timeline of candid memories.",
+      "features": [
+        "Unposed Moments",
+        "Emotional Coverage",
+        "Documentary Style"
+      ],
       "price": "Starting From ₹XXXX",
-      "image": "assets/images/services/facial_1784990760148.png"
+      "image": "assets/images/wedding-photo-8.jpg"
     },
     {
-      "id": "nail-art",
-      "badge": "NAILS",
-      "title": "Nail Art",
-      "shortSummary": "Modern nail designs crafted with precision.",
-      "fullDescription": "Make a statement with perfectly manicured nails. From classic French tips to extravagant 3D nail art and durable acrylic extensions, our nail technicians do it all.",
-      "features": ["Gel Polish & Extensions", "3D Custom Nail Art", "Luxury Manicure & Pedicure"],
+      "id": "albums",
+      "badge": "LUXURY",
+      "title": "Premium Albums",
+      "shortSummary": "Handcrafted, luxury photo albums designed to last.",
+      "fullDescription": "Preserve your memories in our premium, handcrafted coffee-table albums made with high-quality archival paper.",
+      "features": [
+        "Custom Layouts",
+        "Matte/Gloss Finish",
+        "Leather Covers"
+      ],
       "price": "Starting From ₹XXXX",
-      "image": "assets/images/services/nail_art_1784990782393.png"
+      "image": "assets/images/wedding-photo-9.jpg"
     }
   ],
   "packages": [
     {
       "name": "Silver",
       "price": "Rs. XXXX",
-      "features": ["Bridal Makeup", "Hair Styling", "Saree Draping", "Basic Touch-up"],
+      "features": [
+        "1 Traditional Photographer",
+        "Soft Copy Delivery",
+        "1 Standard Album",
+        "Basic Editing"
+      ],
       "featured": false
     },
     {
       "name": "Gold",
       "price": "Rs. XXXX",
       "badge": "Most Popular",
-      "features": ["Bridal Makeup", "Luxury Hairstyle", "Premium Products", "Complimentary Touch-up"],
+      "features": [
+        "1 Candid Photographer",
+        "1 Cinematic Videographer",
+        "Drone Shoot",
+        "Premium 40-sheet Album"
+      ],
       "featured": true
     },
     {
       "name": "Platinum",
       "price": "Rs. XXXX",
-      "features": ["Airbrush Makeup", "Hair Styling", "Premium Skin Prep", "Full Day Assistance"],
+      "features": [
+        "Complete Team Coverage",
+        "4K Cinematic Film",
+        "Pre-Wedding Shoot",
+        "2 Luxury Albums"
+      ],
       "featured": false
     }
   ],
   "whyChooseUs": [
     {
-      "title": "Expert Artists",
-      "description": "Highly experienced bridal makeup professionals.",
-      "image": "assets/images/why-us/why_expert_artist_1784995302122.jpg"
+      "title": "Expert Photographers",
+      "description": "Highly experienced in candid and traditional photography.",
+      "image": "https://images.unsplash.com/photo-1516961642265-531546e84af2?auto=format&fit=crop&w=800&q=80"
     },
     {
-      "title": "Premium Products",
-      "description": "MAC, Huda Beauty, Kryolan & luxury cosmetics.",
-      "image": "assets/images/why-us/why_premium_products_1784995325253.jpg"
+      "title": "High-End Gear",
+      "description": "We shoot on industry-leading Sony & Canon 4K cameras.",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80"
     },
     {
-      "title": "Personalized Look",
-      "description": "Makeup crafted according to your personality.",
-      "image": "assets/images/why-us/why_personalized_look_1784995347846.jpg"
+      "title": "Cinematic Editing",
+      "description": "Premium color grading and cinematic video editing.",
+      "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&w=800&q=80"
     },
     {
-      "title": "Home Service",
-      "description": "Destination weddings and home appointments available.",
-      "image": "assets/images/why-us/why_home_service_1784995366260.jpg"
+      "title": "Destination Weddings",
+      "description": "Available to travel pan-India for your grand destination wedding.",
+      "image": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=800&q=80"
     }
   ],
   "testimonials": [
     {
       "name": "Rachna Kharanga",
-      "text": "It's been an amazing experience! Ishika Ma'am has such a unique personality and is an incredibly experienced professional. She has an exceptional understanding of skin types and always recommends the best options for every bride.",
+      "text": "It's been an amazing experience! Bhakat Studio Ma'am has such a unique personality and is an incredibly experienced professional. She has an exceptional understanding of skin types and always recommends the best options for every bride.",
       "stars": 5,
       "source": "Google Review",
       "meta": "4 reviews · 2 photos"
     },
     {
       "name": "Puja Sinha",
-      "text": "Highly recommended.. Always have a good experience. I have done Hair straightening here and regular visit for skin treatment. Best ever services and well behaved staffs..",
+      "text": "Highly recommended.. Always have a good experience. I have done photography here and regular visit for photography. Best ever services and well behaved staffs..",
       "stars": 5,
       "source": "Google Review",
       "meta": "3 reviews"
     },
     {
       "name": "Sadhna Kumari",
-      "text": "I had a makeup done one year ago. They did a very good makeup of mine. Best parlour in Ghatshila. The makeup artist is very sweet and treat her clients very well.",
+      "text": "I had a photography done one year ago. They did a very good photography of mine. Best photography in Ghatshila. The photography photographer is very sweet and treat her clients very well.",
       "stars": 5,
       "source": "Google Review",
       "meta": "3 reviews"
     },
     {
       "name": "Jiya Sen",
-      "text": "Services are very good. I had my bridal makeup and hair smoothing treatment here and my experience is so good.",
+      "text": "Services are very good. I had my wedding photography and pre-wedding shoot here and my experience is so good.",
       "stars": 5,
       "source": "Google Review",
       "meta": "1 review"
     },
     {
       "name": "Kabhi Banerjee",
-      "text": "Very nice parlour in Ghatsila.. all type of parlour service like hair straightening, hair spa, bridal makeup all are in very normal price.",
+      "text": "Very nice photography in Ghatsila.. all type of photography service like photography, candid shoots, wedding photography all are in very normal price.",
       "stars": 4,
       "source": "Google Review",
       "meta": "Local Guide · 19 reviews"
     },
     {
       "name": "Soumili Dutta",
-      "text": "Outstanding makeup artist. Highly recommended for bridal and party makeup!",
+      "text": "Outstanding photography photographer. Highly recommended for bridal and party photography!",
       "stars": 5,
       "source": "Google Review",
       "meta": "1 review"
     },
     {
       "name": "Riya Deepa",
-      "text": "My first experience is awesome! Bridal makeup was really too good. Along with our bride, all the guests also liked the makeup very much and party makeup is also too good. Thank you so much!",
+      "text": "My first experience is awesome! wedding photography was really too good. Along with our bride, all the guests also liked the photography very much and party photography is also too good. Thank you so much!",
       "stars": 5,
       "source": "Google Review",
       "meta": "6 reviews · 2 photos"
     },
     {
       "name": "Payal Singh",
-      "text": "My bridal makeup was really too good, all the guests also liked my makeup very much. The atmosphere is also so friendly. Thank you so much!",
+      "text": "My wedding photography was really too good, all the guests also liked my photography very much. The atmosphere is also so friendly. Thank you so much!",
       "stars": 5,
       "source": "Google Review",
       "meta": "2 reviews"
     }
   ],
   "gallery": [
-    { "image": "assets/images/gallery/bridal.jpg", "alt": "Bridal Look", "category": "bridal", "size": "large" },
-    { "image": "assets/images/gallery/bridal (2).jpg", "alt": "Bridal Look", "category": "bridal", "size": "normal" },
-    { "image": "assets/images/gallery/bridal 3.jpg", "alt": "Bridal Look", "category": "bridal", "size": "normal" },
-    { "image": "assets/images/gallery/bridal 1.jpg", "alt": "Bridal Look", "category": "bridal", "size": "normal" },
-    { "image": "assets/images/gallery/bridal-4.jpg", "alt": "Bridal Look", "category": "bridal", "size": "normal" },
-    { "image": "assets/images/gallery/bridal-5.jpg", "alt": "Bridal Look", "category": "bridal", "size": "normal" },
-    { "image": "assets/images/gallery/bridal7.jpg", "alt": "Bridal Look", "category": "bridal", "size": "normal" },
-    { "image": "assets/images/gallery/bridal 8.jpg", "alt": "Bridal Look", "category": "bridal", "size": "normal" },
-    { "image": "assets/images/gallery/mehendi_art_1.jpg", "alt": "Bridal Mehendi Art", "category": "mehendi", "size": "normal" },
-    { "image": "assets/images/gallery/mehendi_leg_1.jpg", "alt": "Bridal Mehendi Legs", "category": "mehendi", "size": "normal" },
-    { "image": "assets/images/gallery/mehendi_hand_full.jpg", "alt": "Full Hand Mehendi", "category": "mehendi", "size": "normal" },
-    { "image": "assets/images/gallery/mehendi_arabic.jpg", "alt": "Arabic Mehendi", "category": "mehendi", "size": "normal" },
-    { "image": "assets/images/gallery/mehendi_portrait.jpg", "alt": "Portrait Mehendi", "category": "mehendi", "size": "normal" },
-    { "image": "assets/images/gallery/mehendi_ceremony.jpg", "alt": "Mehendi Ceremony", "category": "mehendi", "size": "normal" },
-    { "image": "assets/images/gallery/hair_styling_1.jpg", "alt": "Bridal Hair Styling", "category": "hair", "size": "normal" },
-    { "image": "assets/images/gallery/hair_styling_side.jpg", "alt": "Hair Styling Side Profile", "category": "hair", "size": "normal" },
-    { "image": "assets/images/gallery/hair_styling_braid.jpg", "alt": "Traditional Bridal Braid", "category": "hair", "size": "normal" },
-    { "image": "assets/images/gallery/hair_styling_front.jpg", "alt": "Hair Styling Front Waves", "category": "hair", "size": "normal" },
-    { "image": "assets/images/services/hair_styling_1784990692929.png", "alt": "Hair Styling Service", "category": "hair", "size": "normal" },
-    { "image": "assets/images/gallery/bridal_makeup_eye.jpg", "alt": "Bridal Eye Makeup", "category": "bridal", "size": "normal" },
-    { "image": "assets/images/gallery/bridal_makeup_hd.jpg", "alt": "HD Bridal Makeup", "category": "bridal", "size": "normal" }
+    {
+      "image": "assets/images/wedding-photo-4.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "large"
+    },
+    {
+      "image": "assets/images/wedding-photo-2.jpg",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-3.jpg",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-4.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-5.jpg",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-39.jpg",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "large"
+    },
+    {
+      "image": "assets/images/wedding-photo-7.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-8.jpg",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-9.jpg",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-10.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-11.jpg",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "large"
+    },
+    {
+      "image": "assets/images/wedding-photo-12.jpg",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-13.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-14.jpg",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-15.jpg",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-16.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "large"
+    },
+    {
+      "image": "assets/images/wedding-photo-17.jpg",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-18.jpg",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-19.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-20.jpg",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-21.jpg",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "large"
+    },
+    {
+      "image": "assets/images/wedding-photo-22.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-23.jpg",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-24.jpg",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-25.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-26.jpg",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "large"
+    },
+    {
+      "image": "assets/images/wedding-photo-27.jpg",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-28.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-29.jpg",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-30.jpg",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-31.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "large"
+    },
+    {
+      "image": "assets/images/wedding-photo-32.jpg",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-33.jpg",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-34.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-35.jpg",
+      "alt": "Wedding Shoot",
+      "category": "pre-wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-36.jpg",
+      "alt": "Wedding Shoot",
+      "category": "candid",
+      "size": "large"
+    },
+    {
+      "image": "assets/images/wedding-photo-37.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+
+    {
+      "image": "assets/images/wedding-photo-39.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-40.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-41.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "image": "assets/images/wedding-photo-42.jpg",
+      "alt": "Wedding Shoot",
+      "category": "wedding",
+      "size": "normal"
+    },
+    {
+      "type": "video",
+      "image": "assets/videos/video-gadgets.mp4",
+      "alt": "Wedding Gadgets and Cinema",
+      "category": "cinematic",
+      "size": "large"
+    }
   ],
   "about": {
+    "image": "assets/images/wedding-photo-35.jpg",
     "story": {
-      "title": "Creating Beautiful<br>Brides Since 2010",
-      "text": "Welcome to Ishika Professional Salon & Spa, Ghatsila's premier destination for luxury beauty services. Founded over 14 years ago, our salon has built a reputation for excellence, creativity, and unparalleled customer service. Our team of certified professionals is passionate about beauty. We specialize in HD and airbrush bridal makeup, creative hair styling, and rejuvenating spa therapies. We believe that every client is unique, and we tailor our services to highlight your individual features and personal style."
+      "title": "Capturing Beautiful<br>Moments Since 2015",
+      "text": "Welcome to Bhakat Studio, your premier destination for luxury wedding photography and cinematography in Ghatsila & Jamshedpur. We specialize in capturing candid emotions, epic drone shots, and crafting cinematic wedding films."
     },
     "features": [
-      "14+ Years Experience",
-      "Certified Bridal Artists",
-      "Premium International Products",
+      "[YEARS]+ Years Experience",
+      "Certified Wedding Photographers",
+      "High-End Cinema Cameras",
       "Home & Destination Services"
     ],
     "stats": [
-      { "number": "14", "label": "Years" },
-      { "number": "3000", "label": "Happy Clients" },
-      { "number": "500", "label": "Bridal Makeovers" }
+      {
+        "number": "[YEARS]",
+        "label": "Years Experience"
+      },
+      {
+        "number": "[CLIENTS]",
+        "label": "Happy Clients"
+      },
+      {
+        "number": "[SHOOTS]",
+        "label": "Wedding Shoots"
+      }
     ],
     "founder": {
-      "name": "Ishika",
-      "role": "Founder & Lead Artist",
-      "image": "assets/images/about/founder.jpg",
-      "bio": "With 15 years of experience in the beauty and bridal industry, Ishika has transformed countless brides. Her passion for perfection and continuous learning ensures that every client leaves feeling like royalty."
+      "name": "[STUDIO_NAME]",
+      "role": "Founder & Lead Photographer",
+      "image": "",
+      "bio": "With 15 years of experience in the wedding photography industry, [STUDIO_NAME] has captured countless weddings. Our passion for perfection and continuous learning ensures that every client receives a cinematic masterpiece."
     },
     "team": {
       "title": "Our Talented Team",
-      "image": "assets/images/about/our team.jpg",
-      "text": "Meet the dedicated professionals who bring the Ishika vision to life. Our team consists of highly trained makeup artists, hair stylists, and spa therapists who are passionate about their craft. With years of collective experience, we work together to ensure that every client receives personalized attention and a flawless luxury experience."
+      "image": "",
+      "text": "Meet the dedicated professionals who bring the [STUDIO_NAME] vision to life. Our team consists of highly trained candid photographers, traditional shooters, cinematographers, and drone pilots who are passionate about their craft. With years of collective experience, we work together to ensure that every wedding receives personalized attention and flawless coverage."
     },
-    "mission": "To provide exceptional beauty services that empower our clients to feel confident and beautiful. We strive to create a relaxing, luxurious environment where every detail is taken care of.",
-    "vision": "To be the leading luxury salon and spa in the region, constantly innovating and setting new standards in the beauty industry through continuous education and passion.",
+    "mission": "To provide exceptional photography services that preserve your most precious moments. We strive to create a cinematic and stress-free shooting experience where every detail is captured.",
+    "vision": "To be the leading luxury wedding studio in the region, constantly innovating and setting new standards in the wedding industry through continuous education and passion.",
     "anniversary": {
       "title": "15 Years of Excellence",
-      "image": "assets/images/about/ribbon cutting.jpg",
-      "text": "What started as a dream has now blossomed into a legacy. We recently celebrated our 15th anniversary and inaugurated our newly upgraded salon space to provide an even more luxurious experience for our beloved clients."
+      "image": "",
+      "text": "What started as a dream has now blossomed into a legacy. We recently celebrated our 15th anniversary and inaugurated our newly upgraded editing studio to provide an even more luxurious experience for our beloved clients."
     }
   },
   "appointment": {
-    "image": "assets/images/appointment/appointment_salon_mirror_1785028616896.jpg",
-    "services": ["Bridal Makeup", "Party Makeup", "Hair Styling", "Mehendi", "Spa"]
+    "image": "assets/images/wedding-photo-17.jpg",
+    "services": [
+      "Wedding Photography",
+      "Pre-Wedding",
+      "Cinematography",
+      "Candid Shoots",
+      "Drone Coverage"
+    ]
   },
   "cta": {
     "kicker": "✦ BOOK YOUR SESSION ✦",
-    "title": "Ready For Your <span class=\"gold-text\">Dream Look?</span>",
-    "description": "Book your appointment today and let our beauty experts create your perfect bridal look."
+    "title": "Ready To Frame <span class=\"gold-text\">Your Story?</span>",
+    "description": "Book your dates today and let our team capture your perfect wedding memories."
   }
 }

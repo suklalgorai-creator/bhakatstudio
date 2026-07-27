@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cinematic Weddings | Premium Photography</title>
+    <meta name="description" content="Capturing Emotions, Not Just Photos. Premium Wedding Photography & Cinematography.">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <!-- Navbar -->
+    <header class="navbar">
+        <div class="logo">STUDIO<span>.</span></div>
+        <nav>
+            <ul>
+                <li><a href="#about">Our Vision</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#films">Films</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="nav-mobile-btn">
+            <i data-lucide="menu"></i>
+        </div>
+    </header>
+
+    <!-- Floating WhatsApp Button -->
+    <a href="https://wa.me/1234567890" target="_blank" class="whatsapp-btn">
+        <i data-lucide="message-circle"></i>
+    </a>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="video-container">
+            <!-- Auto-playing background video for that cinematic feel -->
+            <video autoplay loop muted playsinline class="hero-bg">
+                <source src="https://cdn.pixabay.com/vimeo/328940142/wedding-23011.mp4?width=1280&hash=125a1e7e4eb132cc70830720d2cb2f8c5c7d0d04" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="overlay"></div>
+        </div>
+        <div class="content hero-content">
+            <h1 class="gsap-hero">Timeless Moments</h1>
+            <p class="gsap-hero">Cinematic Wedding Photography & Films</p>
+            <button class="cta gsap-hero" onclick="document.getElementById('portfolio').scrollIntoView({behavior: 'smooth'})">Explore Our Work</button>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section dark-section">
+        <div class="container text-center gsap-fade-up">
+            <h2 class="section-title">Capturing Emotions,<br>Not Just Photos.</h2>
+            <p class="section-desc">We believe that every wedding has a unique story. Our minimalist approach focuses on the raw, authentic emotions of your special day, crafting a visual legacy that feels like a high-end cinematic experience.</p>
+        </div>
+    </section>
+
+    <!-- Portfolio Section (Masonry) -->
+    <section id="portfolio" class="section portfolio-section">
+        <div class="container gsap-fade-up">
+            <h2 class="section-title text-center">The Portfolio</h2>
+            
+            <div class="filters">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="pre-wedding">💍 Pre-Wedding</button>
+                <button class="filter-btn" data-filter="haldi">💛 Haldi & Mehendi</button>
+                <button class="filter-btn" data-filter="wedding">❤️ The Wedding Day</button>
+                <button class="filter-btn" data-filter="candid">😄 Candid Moments</button>
+            </div>
+
+            <div class="masonry-grid">
+                <!-- Gallery Items -->
+                <div class="masonry-item" data-category="wedding">
+                    <img src="https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=800" alt="Wedding Vows">
+                    <div class="item-overlay"><span>The Vows</span></div>
+                </div>
+                <div class="masonry-item" data-category="haldi">
+                    <img src="https://images.unsplash.com/photo-1620064916958-605375619af8?auto=format&fit=crop&q=80&w=800" alt="Haldi Celebration">
+                    <div class="item-overlay"><span>Vibrant Haldi</span></div>
+                </div>
+                <div class="masonry-item" data-category="pre-wedding">
+                    <img src="https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&q=80&w=800" alt="Pre Wedding Shoot">
+                    <div class="item-overlay"><span>Pre-Wedding Romance</span></div>
+                </div>
+                <div class="masonry-item" data-category="candid">
+                    <img src="https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&q=80&w=800" alt="Candid Couple">
+                    <div class="item-overlay"><span>Pure Joy</span></div>
+                </div>
+                <div class="masonry-item" data-category="wedding">
+                    <img src="https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&q=80&w=800" alt="The Mandap">
+                    <div class="item-overlay"><span>The Mandap</span></div>
+                </div>
+                <div class="masonry-item" data-category="candid">
+                    <img src="https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&q=80&w=800" alt="Candid Moments">
+                    <div class="item-overlay"><span>Candid Laughs</span></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Cinematography Section -->
+    <section id="films" class="section films-section dark-section">
+        <div class="container gsap-fade-up">
+            <h2 class="section-title text-center">Cinematography</h2>
+            <p class="section-desc text-center">Relive your most precious moments through our cinematic lenses.</p>
+            <div class="video-wrapper">
+                <div class="mock-video-player">
+                    <i data-lucide="play-circle" class="play-icon"></i>
+                    <span>Watch Teaser</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="section services-section">
+        <div class="container gsap-fade-up">
+            <h2 class="section-title text-center">Services & Packages</h2>
+            <div class="services-grid">
+                <div class="service-card">
+                    <i data-lucide="camera" class="service-icon"></i>
+                    <h3>Candid Photography</h3>
+                    <p>Capturing unscripted, natural moments that tell your true story.</p>
+                </div>
+                <div class="service-card">
+                    <i data-lucide="video" class="service-icon"></i>
+                    <h3>Cinematic Videography</h3>
+                    <p>High-end 4K wedding films crafted like a movie.</p>
+                </div>
+                <div class="service-card">
+                    <i data-lucide="plane" class="service-icon"></i>
+                    <h3>Drone Shoot</h3>
+                    <p>Breathtaking aerial views of your grand venues.</p>
+                </div>
+                <div class="service-card">
+                    <i data-lucide="book-open" class="service-icon"></i>
+                    <h3>Premium Albums</h3>
+                    <p>Handcrafted, luxury photo albums designed to last generations.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section contact-section dark-section">
+        <div class="container gsap-fade-up">
+            <h2 class="section-title text-center">Let's Create Magic</h2>
+            <p class="section-desc text-center">Book your dates with us.</p>
+            <form class="booking-form">
+                <div class="form-group">
+                    <input type="text" placeholder="Your Name" required>
+                </div>
+                <div class="form-group">
+                    <input type="email" placeholder="Email Address" required>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <input type="date" placeholder="Wedding Date" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Venue / City" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <textarea placeholder="Tell us about your wedding details..." rows="4"></textarea>
+                </div>
+                <button type="submit" class="cta submit-btn">Send Inquiry</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container text-center">
+            <p>&copy; 2026 Studio. All rights reserved. Cinematic Wedding Photography.</p>
+        </div>
+    </footer>
+
+    <!-- GSAP Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

@@ -21,7 +21,7 @@ export const initTheme = () => {
 
     let savedTheme = 'dark';
     try {
-        savedTheme = localStorage.getItem('ishika-theme') || 'dark';
+        savedTheme = localStorage.getItem('bhakat-theme') || 'dark';
     } catch (_) {
         // Storage unavailable — use default.
     }
@@ -32,7 +32,7 @@ export const initTheme = () => {
         const nextTheme = document.body.dataset.theme === 'dark' ? 'light' : 'dark';
         setTheme(nextTheme);
         try {
-            localStorage.setItem('ishika-theme', nextTheme);
+            localStorage.setItem('bhakat-theme', nextTheme);
         } catch (_) {
             // Keep for session only.
         }
